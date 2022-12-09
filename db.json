@@ -1392,43 +1392,5 @@
       "county": "Micronaut",
       "state": "Kentucky"
     }
-  ],
-  "OUPS": [
-    {
-      "tickets": [
-        {
-          "id": 3,
-          "ticketRevision": "B415402983-04A",
-          "account": "ad",
-          "name": "Boyle Griffith",
-          "status": "6/6 Received",
-          "excavation_date": "2022-12-08T20:05:56.481Z",
-          "expiration_date": "2022-12-29T20:05:56.481Z",
-          "center": "UTAH",
-          "priority": "NORM",
-          "ticket_type": "NEW",
-          "address": "41 McKibben Street",
-          "place": "Watrous",
-          "county": "Moltonic",
-          "state": "Rhode Island"
-        },
-        {
-          "id": 3,
-          "ticketRevision": "B415402983-04A",
-          "account": "ad",
-          "name": "Boyle Griffith",
-          "status": "6/6 Received",
-          "excavation_date": "2022-12-08T20:05:56.481Z",
-          "expiration_date": "2022-12-29T20:05:56.481Z",
-          "center": "UTAH",
-          "priority": "NORM",
-          "ticket_type": "NEW",
-          "address": "41 McKibben Street",
-          "place": "Watrous",
-          "county": "Moltonic",
-          "state": "Rhode Island"
-        }
-      ]
-    }
   ]
 }
