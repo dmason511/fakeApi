@@ -1,7 +1,7 @@
-const oups = require('./OHIO811.json');
+const OHIO811 = require('./OHIO811.json');
 const julie = require('./julie.json');
 const utah = require('./utah.json');
-const db = require('db.json')
+const db = require('./db.json')
 
 
 module.exports = () => ({
